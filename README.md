@@ -132,11 +132,11 @@ Geldium Finance observed an increase in credit card delinquency and wants a more
 - ![Certificate](Tata_GenAI_certificate.png)
 
 > Add your file paths here once you upload them:
-- `reports/EDA_Summary_Report.pdf`
-- `reports/Predictive_Model_Plan.pdf`
-- `reports/Business_Summary_Report.pdf`
-- `slides/AI_Powered_Collections_Strategy.pptx`
-- `certificate/Tata_Forage_Certificate.pdf`
+- `Shubhangi_Pawar_Geldium_EDA_Report1.pdf`
+- `Shubhangi_Pawar_Geldium_Predictive_Model_Plan.pdf`
+- `Shubhangi_Pawar_report.pdf`
+- `Geldium_AI_Collections_System_Shubhangi.pptx`
+- `Tata_GenAI_certificate.png`
 
 ---
 
