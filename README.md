@@ -124,10 +124,10 @@ Geldium Finance observed an increase in credit card delinquency and wants a more
 
 ## 📄 Deliverables (Included in Repo)
 
-- **EDA Summary Report** (Task 1) (Shubhangi_Pawar_Geldium_EDA_Report1.pdf)
-- **Predictive Model Plan** (Task 2) (Shubhangi_Pawar_Geldium_Predictive_Model_Plan.pdf)
-- **Business Summary Report** (Task 3) (Shubhangi_Pawar_report.pdf) 
-- **Final Slide Deck** (Task 4) (Geldium_AI_Collections_System_Shubhangi.pptx)
+- [EDA Summary Report (Task 1)] (./Shubhangi_Pawar_Geldium_EDA_Report1.pdf)
+- [Predictive Model Plan (Task 2)] (./Shubhangi_Pawar_Geldium_Predictive_Model_Plan.pdf)
+- [Business Summary Report (Task 3)] (./Shubhangi_Pawar_report.pdf) 
+- [Final Slide Deck (Task 4)] (./Geldium_AI_Collections_System_Shubhangi.pptx)
 - **Certificate**
 - ![Certificate](Tata_GenAI_certificate.png)
 
