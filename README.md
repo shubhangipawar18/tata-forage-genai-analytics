@@ -151,4 +151,10 @@ GenAI was used as a **support tool** to:
 ---
 
 ## 👤 Author
+
 **Shubhangi Pawar**
+
+- 📧 Email: ishubhangipawar@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/shubhangipawar18](https://www.linkedin.com/in/shubhangipawar18)
+- 🌐 GitHub: [github.com/shubhangipawar18](https://github.com/shubhangipawar18)
+
